@@ -1,0 +1,1 @@
+elif ball.xcor() > 350 or ball.xcor() < -350:
