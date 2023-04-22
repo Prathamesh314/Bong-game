@@ -7,7 +7,7 @@ import time
 screen = turtle.Screen()
 screen.bgcolor("black")
 screen.title("The Bong Game")
-n = screen.textinput(title="Traget",prompt="How many points match you want to paly: ")
+n = screen.textinput(title="Traget",prompt="How many points match you want to play: ")
 score = ScoreBoard()
 right_paddle = bong_class.Bong()
 left_paddle = bong_class.Bong()

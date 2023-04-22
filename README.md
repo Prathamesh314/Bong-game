@@ -2,7 +2,7 @@
  This is bong game made in python using Turtle module
 
 # How to Use
--  Copy all the files in same folder on your pc
+-  Clone the Repository on your pc
 -  Run **main.py**,this files imports other python modules so keep them under same directory
 -  **ball.py** is a module which funcitons the movement and speed of the ball
 -  **bong_class.py** is a module which created two paddles and keep them in their respective position
