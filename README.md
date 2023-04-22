@@ -15,3 +15,8 @@
 -  There are two paddles on two sides and right paddle can be controlled by arrow keys (up and down) and left paddle can be controlled by 'W' for up and 'S' for down
 -  As you move forward in this game the speed of the ball increases and the game keep on going hard
 -  The first player who completes the Target wins
+
+# Image
+
+<h2> Screen </h2>
+<img src = "screen.png" alt="Screen" width="300" height="300">
